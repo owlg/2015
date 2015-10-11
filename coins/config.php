@@ -1,9 +1,9 @@
 <?php
 
-$dbhost = "localhost";
-$dbuser = "test_faucet";
-$dbpass = "test_pass";
-$dbname = "test_faucet";
+$dbhost = "http://208.70.8.100";
+$dbuser = "owlgzcom_owls";
+$dbpass = "28NDjsBS83sS";
+$dbname = "owlgzcom_faucet";
 $display_errors = false;
 $disable_admin_panel = false;
 
