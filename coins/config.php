@@ -1,6 +1,6 @@
 <?php
 
-$dbhost = "http://208.70.8.100";
+$dbhost = "localhost";
 $dbuser = "owlgzcom_owls";
 $dbpass = "28NDjsBS83sS";
 $dbname = "owlgzcom_faucet";
