@@ -21,7 +21,7 @@ if (file_exists($target_file)) {
 }
 // Check file size
 if ($_FILES["fileToUpload"]["size"] > 50000) {
-    echo "Sorry, your file is too large.";
+    echo "Sorry, your image is too large, resize or lower the quality of the image to reduce its size.";
     $uploadOk = 0;
 }
 // Allow certain file formats
