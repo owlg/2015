@@ -1,5 +1,5 @@
-# owlgz.com-2015
-The source code to the front page of owlgz.com (2015)
+# owl-2015
+The source code to the front page of owlsg (2015)
 
 
 This serves as an archive of the webpage.
